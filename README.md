@@ -1,6 +1,6 @@
-# 沼って。 LP
+# YELL LP
 
-TikTok LIVE ライバー事務所「沼って。」のランディングページ。
+TikTok LIVE ライバー事務所「YELL（エール）」のランディングページ。2026-11-13 に事務所名を「沼って。」から変更した（公開URLとリポジトリ名は numatte のまま）。
 
 - 公開URL: https://numatte.github.io/
 - `index.html` 1ファイル＋`assets/`（写真）で動く静的サイト。GitHub Pages（main ブランチ直下）で公開している
