@@ -1,8 +1,8 @@
 # YELL LP
 
-TikTok LIVE ライバー事務所「YELL（エール）」のランディングページ。2026-11-13 に事務所名を「沼って。」から変更した（公開URLとリポジトリ名は numatte のまま）。
+TikTok LIVE ライバー事務所「YELL（エール）」のランディングページ。2026-11-13 に事務所名を「沼って。」から変更した（同日、公開URLも https://yell-tokyo.github.io/ に変更。GitHubの組織 numatte → yell-tokyo、リポジトリ numatte.github.io → yell-tokyo.github.io）。
 
-- 公開URL: https://numatte.github.io/
+- 公開URL: https://yell-tokyo.github.io/
 - `index.html` 1ファイル＋`assets/`（写真）で動く静的サイト。GitHub Pages（main ブランチ直下）で公開している
 - 写真は `python build_images.py <numatte-lp.pdf>` で、元のPDFから取り出してWeb用に軽くしたもの（ヒーローの `assets/hero-taishi-full.jpg` だけは、本人からもらった縦長の元写真）
 - ヒーローはPCだと「左に文字・右に写真」、スマホだと「写真の下に文字」で、どちらも写真を切らずに全体を見せる
